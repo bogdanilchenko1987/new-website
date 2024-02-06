@@ -2,7 +2,7 @@ import { common } from './common';
 import { createmarkup } from './helpers/createMarkup';
 import { createModal } from './helpers/createModal';
 import { instruments } from './helpers/instruments';
-import 'basiclightbox/dist/basiclightbox.min.css';
+// import 'basiclightbox/dist/basiclightbox.min.css';
 
 const search = document.querySelector('.js-search');
 const list = document.querySelector('.js-list');
